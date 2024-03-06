@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "Back_end_Challenge.Controllers.pedidoController",
+    "Method": "GetAllOrders",
+    "RelativePath": "api/pedido",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Back_end_Challenge.Entities.Order, Back-end-Challenge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
