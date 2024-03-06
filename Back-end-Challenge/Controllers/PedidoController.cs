@@ -12,21 +12,21 @@ namespace Back_end_Challenge.Controllers
         public async Task<ActionResult<List<Order>>> GetAllOrders()
         {
             var orders = new List<Order>
-    {
-        new Order
-        {
-            pedido = 123456,
-            itens = new List<OrderItem>
             {
-                new OrderItem
+                new Order
                 {
-                    descricao = "Description",
-                    precoUnitario = 1,
-                    qtd = 1,
+                    Pedido = 123456,
+                    Itens = new List<OrderItem>
+                    {
+                        new OrderItem
+                        {
+                            Descricao = "Description",
+                            PrecoUnitario = 1,
+                            Qtd = 1,
+                        }
+                    }
                 }
-            }
-        }
-    };
+            };
 
 
 
