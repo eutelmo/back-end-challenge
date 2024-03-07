@@ -16,6 +16,7 @@ namespace Back_end_Challenge.Controllers
             _appDbContext = appDbContext;
         }
 
+        // Get All
         [HttpGet]
         public async Task<ActionResult<Order>> GetAllPedidos()
         {
@@ -24,6 +25,7 @@ namespace Back_end_Challenge.Controllers
             return Ok(orders);
         }
 
+        // Get Pedido
         [HttpGet("{numeroPedido}")]
         public async Task<ActionResult<List<Order>>> GetPedidosByNumero(int numeroPedido)
         {
@@ -34,6 +36,7 @@ namespace Back_end_Challenge.Controllers
             return Ok(order);
         }
 
+        // POST
         [HttpPost]
         public async Task<ActionResult<List<Order>>> AddPedido([FromBody] Order order)
         {
@@ -43,7 +46,7 @@ namespace Back_end_Challenge.Controllers
             return Ok(await _appDbContext.Orders.ToListAsync());
         }
 
-
+        // PUT
         [HttpPut]
         public async Task<ActionResult<List<Order>>> UpdatePedido([FromBody] Order UpdatedOrder)
         {
@@ -77,5 +80,23 @@ namespace Back_end_Challenge.Controllers
             return Ok(await _appDbContext.Orders.ToListAsync());
         }
 
+        // DELETE
+
+        [HttpDelete("{numeroPedido}")]
+        public async Task<ActionResult<List<Order>>> DeletePedido(int numeroPedido)
+        {
+            var dbOrder = await _appDbContext.Orders.FindAsync(numeroPedido);
+
+            if (dbOrder is null)
+            {
+                return NotFound("CODIGO_PEDIDO_INVALIDO");
+            }
+
+            _appDbContext.Orders.Remove(dbOrder);
+
+            await _appDbContext.SaveChangesAsync();
+
+            return Ok(await _appDbContext.Orders.Include(o => o.Itens).ToListAsync());
+        }
     }
 }
