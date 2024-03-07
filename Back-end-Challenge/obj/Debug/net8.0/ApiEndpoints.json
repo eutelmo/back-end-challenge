@@ -1,12 +1,90 @@
 [
   {
-    "ContainingType": "Back_end_Challenge.Controllers.pedidoController",
-    "Method": "GetAllOrders",
-    "RelativePath": "api/pedido",
+    "ContainingType": "Back_end_Challenge.Controllers.PedidoController",
+    "Method": "GetAllPedidos",
+    "RelativePath": "api/Pedido",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Back_end_Challenge.Entities.Order",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Back_end_Challenge.Controllers.PedidoController",
+    "Method": "AddPedido",
+    "RelativePath": "api/Pedido",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "order",
+        "Type": "Back_end_Challenge.Entities.Order",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Back_end_Challenge.Entities.Order, Back-end-Challenge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Back_end_Challenge.Controllers.PedidoController",
+    "Method": "UpdatePedido",
+    "RelativePath": "api/Pedido",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UpdatedOrder",
+        "Type": "Back_end_Challenge.Entities.Order",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Back_end_Challenge.Entities.Order, Back-end-Challenge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Back_end_Challenge.Controllers.PedidoController",
+    "Method": "GetPedidosByNumero",
+    "RelativePath": "api/Pedido/{numeroPedido}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "numeroPedido",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": [
       {
         "Type": "System.Collections.Generic.List\u00601[[Back_end_Challenge.Entities.Order, Back-end-Challenge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
