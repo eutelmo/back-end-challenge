@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Back-end-Challenge\\Entities\\Order.cs",
               "ToolTip": "D:\\portefolio\\backEndChallenge\\Back-end-Challenge\\Back-end-Challenge\\Entities\\Order.cs",
               "RelativeToolTip": "Back-end-Challenge\\Entities\\Order.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAADgvwwAAAAWAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAvwAwAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-06T19:23:43.216Z",
               "EditorCaption": ""
@@ -47,9 +47,9 @@
               "Title": "PedidoController.cs",
               "DocumentMoniker": "D:\\portefolio\\backEndChallenge\\Back-end-Challenge\\Back-end-Challenge\\Controllers\\PedidoController.cs",
               "RelativeDocumentMoniker": "Back-end-Challenge\\Controllers\\PedidoController.cs",
-              "ToolTip": "D:\\portefolio\\backEndChallenge\\Back-end-Challenge\\Back-end-Challenge\\Controllers\\PedidoController.cs*",
-              "RelativeToolTip": "Back-end-Challenge\\Controllers\\PedidoController.cs*",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAANAAAA",
+              "ToolTip": "D:\\portefolio\\backEndChallenge\\Back-end-Challenge\\Back-end-Challenge\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "Back-end-Challenge\\Controllers\\PedidoController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-06T20:00:59.562Z",
               "EditorCaption": ""
@@ -64,8 +64,7 @@
               "RelativeToolTip": "Back-end-Challenge\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-06T19:48:44.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T19:48:44.475Z"
             },
             {
               "$type": "Document",
@@ -77,8 +76,7 @@
               "RelativeToolTip": "Back-end-Challenge\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T19:46:05.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T19:46:05.229Z"
             }
           ]
         }

@@ -3,16 +3,16 @@
     public class Order
     {
 
-        public int pedido { get; set; }
+        public int Pedido { get; set; }
 
-        public required List<OrderItem> itens { get; set; }
+        public required List<OrderItem> Itens { get; set; }
     }
 
     public class OrderItem
     {
-        public required string descricao { get; set; }
-        public required decimal precoUnitario { get; set; }
-        public required int qtd { get; set; }
+        public required string Descricao { get; set; }
+        public required decimal PrecoUnitario { get; set; }
+        public required int Qtd { get; set; }
     }
 
 }
