@@ -11,8 +11,8 @@
       "RelativeMoniker": "D:0:0:{2F8C7CA1-C060-4CE4-9266-C3EAAE68020C}|Back-end-Challenge\\Back-end-Challenge.csproj|solutionrelative:back-end-challenge\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F8C7CA1-C060-4CE4-9266-C3EAAE68020C}|Back-end-Challenge\\Back-end-Challenge.csproj|d:\\portefolio\\backendchallenge\\back-end-challenge\\back-end-challenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F8C7CA1-C060-4CE4-9266-C3EAAE68020C}|Back-end-Challenge\\Back-end-Challenge.csproj|solutionrelative:back-end-challenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F8C7CA1-C060-4CE4-9266-C3EAAE68020C}|Back-end-Challenge\\Back-end-Challenge.csproj|d:\\portefolio\\backendchallenge\\back-end-challenge\\back-end-challenge\\database\\ordersdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8C7CA1-C060-4CE4-9266-C3EAAE68020C}|Back-end-Challenge\\Back-end-Challenge.csproj|solutionrelative:back-end-challenge\\database\\ordersdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F8C7CA1-C060-4CE4-9266-C3EAAE68020C}|Back-end-Challenge\\Back-end-Challenge.csproj|d:\\portefolio\\backendchallenge\\back-end-challenge\\back-end-challenge\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -26,21 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\portefolio\\backEndChallenge\\Back-end-Challenge\\Back-end-Challenge\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "Back-end-Challenge\\Entities\\Order.cs",
-              "ToolTip": "D:\\portefolio\\backEndChallenge\\Back-end-Challenge\\Back-end-Challenge\\Entities\\Order.cs",
-              "RelativeToolTip": "Back-end-Challenge\\Entities\\Order.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAvwAwAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T19:23:43.216Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -49,9 +36,35 @@
               "RelativeDocumentMoniker": "Back-end-Challenge\\Controllers\\PedidoController.cs",
               "ToolTip": "D:\\portefolio\\backEndChallenge\\Back-end-Challenge\\Back-end-Challenge\\Controllers\\PedidoController.cs",
               "RelativeToolTip": "Back-end-Challenge\\Controllers\\PedidoController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAjAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowEkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-06T20:00:59.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersDB.cs",
+              "DocumentMoniker": "D:\\portefolio\\backEndChallenge\\Back-end-Challenge\\Back-end-Challenge\\Database\\OrdersDB.cs",
+              "RelativeDocumentMoniker": "Back-end-Challenge\\Database\\OrdersDB.cs",
+              "ToolTip": "D:\\portefolio\\backEndChallenge\\Back-end-Challenge\\Back-end-Challenge\\Database\\OrdersDB.cs",
+              "RelativeToolTip": "Back-end-Challenge\\Database\\OrdersDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T21:14:11.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\portefolio\\backEndChallenge\\Back-end-Challenge\\Back-end-Challenge\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Back-end-Challenge\\Entities\\Order.cs",
+              "ToolTip": "D:\\portefolio\\backEndChallenge\\Back-end-Challenge\\Back-end-Challenge\\Entities\\Order.cs",
+              "RelativeToolTip": "Back-end-Challenge\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T19:23:43.216Z",
               "EditorCaption": ""
             },
             {
@@ -65,18 +78,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-03-06T19:48:44.475Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\portefolio\\backEndChallenge\\Back-end-Challenge\\Back-end-Challenge\\Program.cs",
-              "RelativeDocumentMoniker": "Back-end-Challenge\\Program.cs",
-              "ToolTip": "D:\\portefolio\\backEndChallenge\\Back-end-Challenge\\Back-end-Challenge\\Program.cs",
-              "RelativeToolTip": "Back-end-Challenge\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T19:46:05.229Z"
             }
           ]
         }
