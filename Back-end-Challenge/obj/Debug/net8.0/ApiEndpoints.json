@@ -96,5 +96,57 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "Back_end_Challenge.Controllers.PedidoController",
+    "Method": "DeletePedido",
+    "RelativePath": "api/Pedido/{numeroPedido}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "numeroPedido",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Back_end_Challenge.Entities.Order, Back-end-Challenge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Back_end_Challenge.Controllers.StatusController",
+    "Method": "ChangeOrderStatus",
+    "RelativePath": "api/Status",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Back_end_Challenge.Entities.StatusRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Back_end_Challenge.Entities.StatusResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

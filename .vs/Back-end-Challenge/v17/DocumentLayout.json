@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "D:\\portefolio\\backEndChallenge\\Back-end-Challenge\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F8C7CA1-C060-4CE4-9266-C3EAAE68020C}|Back-end-Challenge\\Back-end-Challenge.csproj|d:\\portefolio\\backendchallenge\\back-end-challenge\\back-end-challenge\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F8C7CA1-C060-4CE4-9266-C3EAAE68020C}|Back-end-Challenge\\Back-end-Challenge.csproj|solutionrelative:back-end-challenge\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F8C7CA1-C060-4CE4-9266-C3EAAE68020C}|Back-end-Challenge\\Back-end-Challenge.csproj|d:\\portefolio\\backendchallenge\\back-end-challenge\\back-end-challenge\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F8C7CA1-C060-4CE4-9266-C3EAAE68020C}|Back-end-Challenge\\Back-end-Challenge.csproj|solutionrelative:back-end-challenge\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F8C7CA1-C060-4CE4-9266-C3EAAE68020C}|Back-end-Challenge\\Back-end-Challenge.csproj|d:\\portefolio\\backendchallenge\\back-end-challenge\\back-end-challenge\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8C7CA1-C060-4CE4-9266-C3EAAE68020C}|Back-end-Challenge\\Back-end-Challenge.csproj|solutionrelative:back-end-challenge\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F8C7CA1-C060-4CE4-9266-C3EAAE68020C}|Back-end-Challenge\\Back-end-Challenge.csproj|d:\\portefolio\\backendchallenge\\back-end-challenge\\back-end-challenge\\database\\ordersdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F8C7CA1-C060-4CE4-9266-C3EAAE68020C}|Back-end-Challenge\\Back-end-Challenge.csproj|solutionrelative:back-end-challenge\\database\\ordersdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8C7CA1-C060-4CE4-9266-C3EAAE68020C}|Back-end-Challenge\\Back-end-Challenge.csproj|d:\\portefolio\\backendchallenge\\back-end-challenge\\back-end-challenge\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8C7CA1-C060-4CE4-9266-C3EAAE68020C}|Back-end-Challenge\\Back-end-Challenge.csproj|solutionrelative:back-end-challenge\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8C7CA1-C060-4CE4-9266-C3EAAE68020C}|Back-end-Challenge\\Back-end-Challenge.csproj|d:\\portefolio\\backendchallenge\\back-end-challenge\\back-end-challenge\\entities\\statusresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8C7CA1-C060-4CE4-9266-C3EAAE68020C}|Back-end-Challenge\\Back-end-Challenge.csproj|solutionrelative:back-end-challenge\\entities\\statusresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8C7CA1-C060-4CE4-9266-C3EAAE68020C}|Back-end-Challenge\\Back-end-Challenge.csproj|d:\\portefolio\\backendchallenge\\back-end-challenge\\back-end-challenge\\entities\\statusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8C7CA1-C060-4CE4-9266-C3EAAE68020C}|Back-end-Challenge\\Back-end-Challenge.csproj|solutionrelative:back-end-challenge\\entities\\statusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8C7CA1-C060-4CE4-9266-C3EAAE68020C}|Back-end-Challenge\\Back-end-Challenge.csproj|d:\\portefolio\\backendchallenge\\back-end-challenge\\back-end-challenge\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8C7CA1-C060-4CE4-9266-C3EAAE68020C}|Back-end-Challenge\\Back-end-Challenge.csproj|solutionrelative:back-end-challenge\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F8C7CA1-C060-4CE4-9266-C3EAAE68020C}|Back-end-Challenge\\Back-end-Challenge.csproj|d:\\portefolio\\backendchallenge\\back-end-challenge\\back-end-challenge\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -26,24 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PedidoController.cs",
-              "DocumentMoniker": "D:\\portefolio\\backEndChallenge\\Back-end-Challenge\\Back-end-Challenge\\Controllers\\PedidoController.cs",
-              "RelativeDocumentMoniker": "Back-end-Challenge\\Controllers\\PedidoController.cs",
-              "ToolTip": "D:\\portefolio\\backEndChallenge\\Back-end-Challenge\\Back-end-Challenge\\Controllers\\PedidoController.cs",
-              "RelativeToolTip": "Back-end-Challenge\\Controllers\\PedidoController.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAowEkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T20:00:59.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "OrdersDB.cs",
               "DocumentMoniker": "D:\\portefolio\\backEndChallenge\\Back-end-Challenge\\Back-end-Challenge\\Database\\OrdersDB.cs",
               "RelativeDocumentMoniker": "Back-end-Challenge\\Database\\OrdersDB.cs",
@@ -56,7 +55,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "StatusRequest.cs",
+              "DocumentMoniker": "D:\\portefolio\\backEndChallenge\\Back-end-Challenge\\Back-end-Challenge\\Entities\\StatusRequest.cs",
+              "RelativeDocumentMoniker": "Back-end-Challenge\\Entities\\StatusRequest.cs",
+              "ToolTip": "D:\\portefolio\\backEndChallenge\\Back-end-Challenge\\Back-end-Challenge\\Entities\\StatusRequest.cs",
+              "RelativeToolTip": "Back-end-Challenge\\Entities\\StatusRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T18:55:01.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StatusResponse.cs",
+              "DocumentMoniker": "D:\\portefolio\\backEndChallenge\\Back-end-Challenge\\Back-end-Challenge\\Entities\\StatusResponse.cs",
+              "RelativeDocumentMoniker": "Back-end-Challenge\\Entities\\StatusResponse.cs",
+              "ToolTip": "D:\\portefolio\\backEndChallenge\\Back-end-Challenge\\Back-end-Challenge\\Entities\\StatusResponse.cs",
+              "RelativeToolTip": "Back-end-Challenge\\Entities\\StatusResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T18:52:44.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StatusController.cs",
+              "DocumentMoniker": "D:\\portefolio\\backEndChallenge\\Back-end-Challenge\\Back-end-Challenge\\Controllers\\StatusController.cs",
+              "RelativeDocumentMoniker": "Back-end-Challenge\\Controllers\\StatusController.cs",
+              "ToolTip": "D:\\portefolio\\backEndChallenge\\Back-end-Challenge\\Back-end-Challenge\\Controllers\\StatusController.cs",
+              "RelativeToolTip": "Back-end-Challenge\\Controllers\\StatusController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T18:51:14.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "D:\\portefolio\\backEndChallenge\\Back-end-Challenge\\Back-end-Challenge\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "Back-end-Challenge\\Controllers\\PedidoController.cs",
+              "ToolTip": "D:\\portefolio\\backEndChallenge\\Back-end-Challenge\\Back-end-Challenge\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "Back-end-Challenge\\Controllers\\PedidoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T20:00:59.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\portefolio\\backEndChallenge\\Back-end-Challenge\\Back-end-Challenge\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "Back-end-Challenge\\Entities\\Order.cs",
@@ -69,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\portefolio\\backEndChallenge\\Back-end-Challenge\\Back-end-Challenge\\appsettings.json",
               "RelativeDocumentMoniker": "Back-end-Challenge\\appsettings.json",
